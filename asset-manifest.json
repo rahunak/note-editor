@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rahunak/note-editor.git/static/css/main.082419e8.css",
+    "main.js": "/rahunak/note-editor.git/static/js/main.163432f2.js",
+    "static/js/787.69963b0f.chunk.js": "/rahunak/note-editor.git/static/js/787.69963b0f.chunk.js",
+    "index.html": "/rahunak/note-editor.git/index.html",
+    "main.082419e8.css.map": "/rahunak/note-editor.git/static/css/main.082419e8.css.map",
+    "main.163432f2.js.map": "/rahunak/note-editor.git/static/js/main.163432f2.js.map",
+    "787.69963b0f.chunk.js.map": "/rahunak/note-editor.git/static/js/787.69963b0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082419e8.css",
+    "static/js/main.163432f2.js"
+  ]
+}
