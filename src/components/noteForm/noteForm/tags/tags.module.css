@@ -1,0 +1,25 @@
+
+.tagList {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    list-style-type: none;
+    flex-wrap: wrap;
+    padding: 0 16px;
+}
+.firstCaption{
+
+}
+
+.tag {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.tag button{
+    margin: 0 5px;
+}
+
