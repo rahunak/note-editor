@@ -1,8 +1,8 @@
 import React, {useEffect, useState} from "react";
-import NoteForm from "../Form/noteForm";
+import NoteForm from "../../components/noteForm/Form/noteForm";
 import {v4 as uuidv4} from "uuid";
-import Notes from "../note/notes";
-import SearchPanel from "../../searchPanel/searchPanel";
+import Notes from "../../components/note/notes";
+import SearchPanel from "../../components/noteForm/searchPanel/searchPanel";
 import s from "./noteFormContainer.module.css"
 import { saveAs } from 'file-saver';
 const NoteFormContainer = () => {

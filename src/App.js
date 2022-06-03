@@ -1,6 +1,6 @@
 import './App.css';
-import NoteFormContainer from "./components/noteForm/noteForm/noteContainer/noteFormContainer";
-import SideInformation from "./components/sideInformation/sideInformation";
+import NoteFormContainer from "./pages/noteContainer/noteFormContainer";
+import SideInformation from "./pages/sideInformation/sideInformation";
 function App() {
   return (
     <div className="App">
